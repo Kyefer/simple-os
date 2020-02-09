@@ -1,0 +1,4 @@
+.vscode/
+t1_proj_def.txt
+**/*.tar.gz
+fs*
